@@ -1,0 +1,10 @@
+http://searchnetworking.techtarget.com/definition/datagram
+https://www.techopedia.com/definition/6766/datagram
+https://en.wikipedia.org/wiki/Source_routing
+https://en.wikipedia.org/wiki/ARPANET
+
+http://www.protocols.com/pbook/frame/
+http://searchnetworking.techtarget.com/definition/X25
+https://www.techopedia.com/definition/5791/x25
+http://docplayer.gr/9857964-Diktya-dimosias-hrisis-kai-diasyndesi-diktyon-enotita-5-protokollo-atm.html
+http://searchtelecom.techtarget.com/definition/dense-wavelength-division-multiplexing
